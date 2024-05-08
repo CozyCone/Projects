@@ -1,0 +1,7 @@
+ALGORITHMIC TRADING MODEL
+
+1) In this algorithmic I have used a CNN layer,Time Series Forecasting model to predict BTC closing price for the next 6th hour.
+2) I have used a modified mean reversion algorithm for buy-sell-hold.
+3) Back tested the approach on Feb/2022 - Dec/2023 data.
+4) Achieved a net profit of 67% compared to benchmark returns with maximum drawdown of 3.1%.
+5) PnL: 16662$, Risk-Reward ratio: 1.404%, Sharpe Ratio: 1.03%, Win%: 52%.
