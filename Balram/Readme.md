@@ -72,7 +72,7 @@ Soon:
 - Ability to ingest new information from urls entered by user 
 - Ability to access real time data like current market prices,weather forecasting,etc.
 
-# 💻 Contributing
+# Contributing
 
 If you would like to contribute to Balram, please follow these steps:
 
@@ -81,3 +81,6 @@ If you would like to contribute to Balram, please follow these steps:
 3. Write tests for your changes
 4. Implement your changes and ensure that all tests pass
 5. Submit a pull request
+
+# 💻 Interface
+![fixed-prev](https://drive.google.com/file/d/1S6A44GtLFjzc4eoaKbA9WMO2Qb3UHuQf/view?usp=sharing)
