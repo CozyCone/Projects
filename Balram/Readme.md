@@ -17,10 +17,6 @@
 Prerequisites:
 - [Cohere API Key](https://dashboard.cohere.com/api-keys) - Trial Keys used in this (can also go for the paid production keys)
 
-### Setup
-```
-git clone https://github.com/Haste171/langchain-chatbot.git
-```
 
 Reference to create `.env` file
 ```python
