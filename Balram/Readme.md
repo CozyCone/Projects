@@ -13,7 +13,7 @@
 
 # 🚀 Installation
 
-### Dev-Setup
+### Developer-setup
 Prerequisites:
 - [Cohere API Key](https://dashboard.cohere.com/api-keys) - Trial Keys used in this (can also go for the paid production keys)
 
@@ -78,7 +78,7 @@ Soon:
 
 # 💻 Contributing
 
-If you would like to contribute to the LangChain Chatbot, please follow these steps:
+If you would like to contribute to Balram, please follow these steps:
 
 1. Fork the repository
 2. Create a new branch for your feature or bug fix
