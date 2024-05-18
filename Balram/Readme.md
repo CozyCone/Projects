@@ -1,16 +1,3 @@
-
-<p align="center">
-<b></b>
-</p>
-
-<p align=center>
-<a href="https://gitHub.com/Haste171/langchain-chatbot/graphs/commit-activity"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg">
-</a>
-
-<!-- *The LangChain Chatbot is an AI chat interface for the open-source library LangChain. It provides conversational answers to questions about vector ingested documents.* -->
-<!-- *Existing repo development is at a freeze while we develop a langchain chat bot website :)* -->
-
-
 # 🚀 Installation
 
 ### Developer-setup
